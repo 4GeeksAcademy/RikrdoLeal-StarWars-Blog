@@ -1,0 +1,75 @@
+.anchor {
+    color: aliceblue;
+  }
+  #list {
+    color: aliceblue;
+    border: solid 2px;
+    border-color: cadetblue;
+  }
+  #num {
+    border: solid 1px;
+    border-color: cadetblue;
+  }
+  .personajes {
+    color: aquamarine;
+  }
+  .planetas {
+    color: aquamarine;
+  }
+  .vehiculos {
+    color: aquamarine;
+  }
+  .card {
+    color: antiquewhite;
+  }
+  .carousel-container {
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-y: auto;
+    white-space: nowrap;
+    padding: 1rem 0;
+    overflow: scroll;
+  }
+  
+  .carousel {
+    display: flex;
+    flex-wrap: nowrap;
+  }
+  
+  .card-body {
+    overflow: hidden;
+  }
+  
+  .card-title,
+  .card-text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .like {
+    max-width: 25px;
+    height: 25px;
+  }
+  .card {
+    width: 200 px !important;
+    height: 300 px !important;
+    box-sizing: 500px;
+  }
+  .carousel-inner > .item > img {
+    object-fit: scale-down;
+    height: 50vh;
+    width: 100%;
+  }
+  .dropdown {
+    position: absolute;
+    top: 60px;
+    right: 16px;
+    background-color: black;
+  }
+  .fav {
+    margin-left: 3px;
+  }
+  .span {
+    color: red;
+  }

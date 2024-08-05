@@ -1,0 +1,13 @@
+.name {
+    color: aquamarine;
+  }
+  #card2 {
+    max-width: 540px;
+    background-color: black;
+    margin-left: 325px;
+  }
+  .per {
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+  }

@@ -1,0 +1,4 @@
+.navbar {
+  color: rgb(118, 118, 117);
+  background-color: black;
+}
