@@ -1,3 +1,6 @@
+body {
+  background-image: url('/src/img/cielo.png');
+}
 .anchor {
     color: aliceblue;
   }
@@ -11,13 +14,16 @@
     border-color: cadetblue;
   }
   .personajes {
-    color: aquamarine;
+    color: rgb(17, 156, 33);
+    text-shadow: 10px 5px 5px;
   }
   .planetas {
-    color: aquamarine;
+    color: rgb(17, 156, 33);
+    text-shadow: 10px 5px 5px;
   }
   .vehiculos {
-    color: aquamarine;
+    color: rgb(17, 156, 33);
+    text-shadow: 10px 5px 5px;
   }
   .card {
     color: antiquewhite;
